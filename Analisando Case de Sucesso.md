@@ -1,4 +1,5 @@
 Empresa do Case de Estudo: LEGO
+
 Análise Crítica: A Transformação Ágil da LEGO no Mundo Digital
 
 A LEGO, conhecida mundialmente por seus blocos de montar, passou por um grande desafio ao entrar de vez no mundo digital. A empresa sempre teve uma cultura de produção tradicional, muito estruturada e baseada em longos ciclos de planejamento (modelo cascata), que funcionava bem para brinquedos físicos, mas que se mostrou ineficaz quando o assunto era software e experiências digitais. Essa análise busca explicar como e por que a LEGO decidiu adotar a abordagem ágil como motor de inovação.
